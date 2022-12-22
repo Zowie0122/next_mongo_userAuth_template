@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.23",
     "next": "9.4.4",
     "react": "16.13.1",
